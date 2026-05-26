@@ -6,7 +6,7 @@ Interactive cricket mind-reader game built with Next.js, Firebase Auth, Firestor
 
 Add your deployed app URL here:
 
-`https://aki-cricket-by-aniket-and-ansh-chor.vercel.app[https://aki-cricket-by-aniket-and-ansh-chor.vercel.app/]`
+[Click to Open Live app](https://aki-cricket-by-aniket-and-ansh-chor.vercel.app)
 
 ## Features
 
